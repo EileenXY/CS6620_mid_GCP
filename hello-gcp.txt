@@ -1,0 +1,2 @@
+Hello Google Cloud!
+CS6620 Cloud Platform Workshop
