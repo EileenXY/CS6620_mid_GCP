@@ -104,7 +104,7 @@ You should see a chat interface with a prompt input box near the bottom of the p
 
 **Screenshot Reference:**
 
-![Vertex AI Studio interface](vertexAIscreenshot/vertex_AI_Studio_interface.png)
+![vertexAIscreenshot](vertexAIscreenshot/vertex_AI_Studio_interface.png)
 
 ---
 
